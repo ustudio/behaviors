@@ -21,7 +21,7 @@ setup(
     version='0.0.1',
     description='Behavior based object composition in Python.',
     author='Waylon Calabrese',
-    author_email='waylon@ustudio.com',
+    author_email='waylon@u.com',
     url="https://github.com/ustudio/behaviors",
     license="http://www.apache.org/licenses/LICENSE-2.0",
     packages=['behaviors'],
